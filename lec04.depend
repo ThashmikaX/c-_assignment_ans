@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1671180223 source:c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671180633 c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\cmatrix3.h
+	<iostream>
+
+1671179825 source:c:\a-kkg\eie\modules\ee2201-computerprogramming2\lecturework\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
+1671425244 source:c:\users\jariv\desktop\lec04\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671424680 c:\users\jariv\desktop\lec04\lec04\cmatrix3.h
+	<iostream>
+
+1671427866 source:c:\users\jariv\desktop\lec04\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
+1671430616 source:d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
+1671424682 d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\lec04\cmatrix3.h
+	<iostream>
+
+1671543391 source:d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671543583 source:d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\cmatrix3.cpp
+	"cMatrix3.h"
+
+1671424682 d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\cmatrix3.h
+	<iostream>
+
+1671546275 source:d:\academic\2nd sem\ee2201 programming\matrix\c++_assignment_ans\lec04\main.cpp
+	<iostream>
+	"cMatrix3.h"
+
