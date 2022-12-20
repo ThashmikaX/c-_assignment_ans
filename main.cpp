@@ -13,7 +13,8 @@ int main()
 
     if (h==1){
                 double a1[9];
-                cout<<"enter terms"<<endl;
+                cout<<"Enter terms for matrix(3*3)"<<endl;
+                cout<<"Note:Enter your input as row by row"<<endl;
                 for(int i=0; i<9; i++)
                 {
                     cin>>a1[i];
@@ -47,12 +48,14 @@ int main()
 
     if (h==2){
                 double a1[9] , a2[9];
-                cout<<"enter terms for m1"<<endl;
+                cout<<"Enter terms for 1st matrix(3*3)"<<endl;
+                cout<<"Note:Enter your input as row by row"<<endl;
                 for(int i=0; i<9; i++)
                 {
                     cin>>a1[i];
                 }
-                cout<<endl<<"enter terms for m2"<<endl;
+                cout<<"Enter terms for 2nd matrix(3*3)"<<endl;
+                cout<<"Note:Enter your input as row by row"<<endl;
                 for(int i=0; i<9; i++)
                 {
                     cin>>a2[i];
